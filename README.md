@@ -1,4 +1,4 @@
-# fantastic-pancake
+# Premier dépôt - Jalon 1
 Voici la description de mon tout premier dépôt du cours INF1410 Introduction au génie logiciel.
 
 Je vais utiliser cet espace "Readme.md" pour y développer les différents éléments demandés dans le Jalon 1.
