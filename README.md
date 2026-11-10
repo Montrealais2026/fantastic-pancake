@@ -14,7 +14,7 @@ Voici les livrables demandés dans le Jalon 1:
 Voici ci-après la vision client : 
 Le client est un restaurateur / responsable d'un restaurant.
 Les restaurants font face depuis plusieurs années à une recrudescence des clients qui, après avoir fait une réservation, ne se présentent pas à leurs rendez-vous, annulent à la dernière minute ou n'honorent pas leurs réservations.
-C'est un grave problème pour les restaurateurs, qui perdent beaucoup d'argent à cause de ce comportement irresponsable de la part des clients.
+C'est un grave problème pour les restaurateurs, qui perdent beaucoup d'argent à cause de ce comportement irresponsable de la part des clients "no-show".
 Pire : ils n'ont aucun moyen de s'organiser : ils ne savent pas qui ne s'est pas présenté, combien de fois il l'a fait, ni quels créneaux sont les plus à risque.
 La liste de réservations vit dans un logiciel de réservation, mais ce logiciel ne dit rien sur le client lui-même : est-il venue la semaine dernière ? A-t-il déjà fait faux bond deux fois ? Est-ce que le restaurateur devrait lui demander une carte pour garantir la réservation ?
 
@@ -25,5 +25,15 @@ https://www.journaldequebec.com/2022/12/17/reservations-des-annulations-insultan
 
 Comment aider les restaurants à lutter contre ce fléau ?
 Grâce à notre application!
-Pour aider les restaurateurs, notre application va leur permettre d'effectuer une recherche rapide sur leur client : si le client qui réserve est liste dans notre CRM/base de données, c'est qu'il a été répertorié comme un mauvais client, et le restaurateur saura ainsi à quoi s'en tenir avec lui.
-Egalement, il sera facile pour le restaurateur de dénoncer un client qui a "posé un lapin", en l'inscrivant dans le CRM afin que celui-ci puisse bénéficier aux autres restaurateurs.
+
+Notre application/logiciel va permettre les avancées suivantes :
+- Une connexion facile : depuis un téléphone ou un ordinateur. Pas de configuration complexe.
+- Une connexion automatique aux logiciels de réservation des restaurants.
+- Une fiche client lisible en quelques instants : historique des visites et surtout son taux de "no-show".
+- Une façon simple de renseigner si un client a fait un "no-show" dans le système.
+
+Etant donné que le système est alimenté par les autres restaurateurs (application collaborative), il est possible pour tous les restaurants dans le monde d'être abonnné à ce logiciel qui se met à jour automatiquement.
+
+Pourquoi les restaurateurs payeraient pour ça ? 
+- Car cela va leur permettre d'anticiper les no-shows
+- Cela va leur permettre de gagner plus d'argent en bout de ligne.
