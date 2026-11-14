@@ -19,9 +19,10 @@ Pire : ils n'ont aucun moyen de s'organiser : ils ne savent pas qui ne s'est pas
 La liste de réservations vit dans un logiciel de réservation, mais ce logiciel ne dit rien sur le client lui-même : est-il venue la semaine dernière ? A-t-il déjà fait faux bond deux fois ? Est-ce que le restaurateur devrait lui demander une carte pour garantir la réservation ?
 
 Ci-après quelques articles qui dénoncent cette situation : 
-https://www.lapresse.ca/affaires/2025-07-17/les-restaurateurs-peuvent-imposer-des-penalites-pour-les-reservations-fantomes.php
-https://ici.radio-canada.ca/nouvelle/2038119/reservation-annulation-avertissement-restaurateur
-https://www.journaldequebec.com/2022/12/17/reservations-des-annulations-insultantes-pour-les-restaurateurs
+
+- https://www.lapresse.ca/affaires/2025-07-17/les-restaurateurs-peuvent-imposer-des-penalites-pour-les-reservations-fantomes.php
+- https://ici.radio-canada.ca/nouvelle/2038119/reservation-annulation-avertissement-restaurateur
+- https://www.journaldequebec.com/2022/12/17/reservations-des-annulations-insultantes-pour-les-restaurateurs
 
 Comment aider les restaurants à lutter contre ce fléau ?
 Grâce à notre application!
