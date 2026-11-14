@@ -29,11 +29,12 @@ Grâce à notre application!
 Notre application/logiciel va permettre les avancées suivantes :
 - Une connexion facile : depuis un téléphone ou un ordinateur. Pas de configuration complexe.
 - Une connexion automatique aux logiciels de réservation des restaurants.
-- Une fiche client lisible en quelques instants : historique des visites et surtout son taux de "no-show".
-- Une façon simple de renseigner si un client a fait un "no-show" dans le système.
+- Une fiche client lisible en quelques instants : est-ce que ce client est digne de confiance ? Est-ce qu'il a souvent fait des "no-show" ou des annulations de dernière minute ?
+- Une façon simple de renseigner si un client a fait un "no-show" dans le système pour que cela puisse bénéficier aux autres restaurants.
 
-Etant donné que le système est alimenté par les autres restaurateurs (application collaborative), il est possible pour tous les restaurants dans le monde d'être abonnné à ce logiciel qui se met à jour automatiquement.
+Etant donné que le système est alimenté par tous les restaurants (application collaborative), il est possible pour tous les restaurants dans le monde d'être abonnné à ce logiciel qui se met à jour automatiquement. Il s'agit d'une application qui fonctionne par système d'abonnement.
 
 Pourquoi les restaurateurs payeraient pour ça ? 
-- Car cela va leur permettre d'anticiper les no-shows
+- Car cela va leur permettre d'anticiper les no-shows et les annulations de dernière minute
+- Ils vont pouvoir voir en une seconde si le client qui réserve est digne de confiance
 - Cela va leur permettre de gagner plus d'argent en bout de ligne.
