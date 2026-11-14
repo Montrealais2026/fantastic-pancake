@@ -38,4 +38,4 @@ Etant donné que le système est alimenté par tous les restaurants (application
 Pourquoi les restaurateurs payeraient pour ça ? 
 - Car cela va leur permettre d'anticiper les no-shows et les annulations de dernière minute
 - Ils vont pouvoir voir en une seconde si le client qui réserve est digne de confiance
-- Cela va leur permettre de gagner plus d'argent en bout de ligne.
+- Cela va leur permettre de mieux anticiper les réservations et d'améliorer leurs chiffres d'affaires.
