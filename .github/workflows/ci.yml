@@ -1,0 +1,36 @@
+name: CI
+
+# Ce fichier a été créé à l'aide d'un IAG qui a tout écrit
+# D'après cet IAG, il déclenche la pipeline à chaque push, sur toutes les branches, ainsi que sur chaque pull request ciblant main.
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    name: Suite de tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le code source
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Installer les dépendances (verrouillées)
+        run: npm ci
+
+      - name: Vérifier le lint
+        run: npm run lint --if-present
+
+      - name: Vérifier les types TypeScript
+        run: npm run typecheck --if-present
+
+      - name: Exécuter la suite de tests
+        run: npm test
