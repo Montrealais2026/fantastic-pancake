@@ -12,11 +12,14 @@ Voici les livrables demandés dans le Jalon 1:
 - Une première entrée dans votre blogue technique, répondant aux questions suivantes : qui sont vos utilisateurs et quel problème résolvez-vous ? Quels sont vos premiers choix techniques (langage, framework, hébergement) et quelles alternatives avez-vous considérées ? Qu’est-ce qui est encore incertain à ce stade ?
 
 Voici ci-après la vision client : 
+
 Le client est un restaurateur / responsable d'un restaurant.
-Les restaurants font face depuis plusieurs années à une recrudescence des clients qui, après avoir fait une réservation, ne se présentent pas à leurs rendez-vous, annulent à la dernière minute ou n'honorent pas leurs réservations.
-C'est un grave problème pour les restaurateurs, qui perdent beaucoup d'argent à cause de ce comportement irresponsable de la part des clients "no-show".
-Pire : ils n'ont aucun moyen de s'organiser : ils ne savent pas qui ne s'est pas présenté, combien de fois il l'a fait, ni quels créneaux sont les plus à risque.
-La liste de réservations vit dans un logiciel de réservation, mais ce logiciel ne dit rien sur le client lui-même : est-il venue la semaine dernière ? A-t-il déjà fait faux bond deux fois ? Est-ce que le restaurateur devrait lui demander une carte pour garantir la réservation ?
+Les restaurants font face depuis plusieurs années à une recrudescence des clients qui, après avoir fait une réservation, ne se présentent pas à leurs rendez-vous ou bien annulent à la dernière minute.
+C'est un grave problème pour les restaurateurs, qui perdent beaucoup d'argent à cause de ce comportement irresponsable de la part des clients.
+
+Les questions que se posent le restaurateur sont les suivantes : 
+- Est-ce que je peux avoir confiance dans la réservation de ce client ?
+- Va-t-il honoré sa réservation ou va-t-il me faire faux bond ? 
 
 Ci-après quelques articles qui dénoncent cette situation : 
 
@@ -28,10 +31,11 @@ Comment aider les restaurants à lutter contre ce fléau ?
 Grâce à notre application!
 
 Notre application/logiciel va permettre les avancées suivantes :
+- La création d'un CRM qui renseigne sur les habitudes du client qui a réservé
 - Une connexion facile : depuis un téléphone ou un ordinateur. Pas de configuration complexe.
 - Une connexion automatique aux logiciels de réservation des restaurants.
 - Une fiche client lisible en quelques instants : est-ce que ce client est digne de confiance ? Est-ce qu'il a souvent fait des "no-show" ou des annulations de dernière minute ?
-- Une façon simple de renseigner si un client a fait un "no-show" dans le système pour que cela puisse bénéficier aux autres restaurants.
+- Une façon simple de renseigner si un client a eu un comportement déplacé ("no-show" ou annulation de dernière minute) dans le système pour que cela puisse bénéficier aux autres restaurants qui utilisent le CRM.
 
 Etant donné que le système est alimenté par tous les restaurants (application collaborative), il est possible pour tous les restaurants dans le monde d'être abonnné à ce logiciel qui se met à jour automatiquement. Il s'agit d'une application qui fonctionne par système d'abonnement.
 
