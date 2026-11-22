@@ -1,7 +1,7 @@
 name: CI
 
-# Ce fichier a été créé à l'aide d'un IAG qui a tout écrit
-# D'après cet IAG, il déclenche la pipeline à chaque push, sur toutes les branches, ainsi que sur chaque pull request ciblant main.
+# Déclenche la pipeline à chaque push, sur toutes les branches,
+# ainsi que sur chaque pull request ciblant main.
 on:
   push:
     branches: ["**"]
@@ -23,8 +23,11 @@ jobs:
           node-version: 22
           cache: npm
 
-      - name: Installer les dépendances (verrouillées)
-        run: npm ci
+      # npm install (et non npm ci) : le dépôt ne contient pas encore de
+      # package-lock.json. Dès qu'un lockfile existera (généré avec un
+      # « npm install » en local), préférer « npm ci » pour la reproductibilité.
+      - name: Installer les dépendances
+        run: npm install --no-audit --no-fund
 
       - name: Vérifier le lint
         run: npm run lint --if-present
